@@ -1,0 +1,14 @@
+C:\Users\Arthur\source\repos\DesafiosCSharp\CertidaoNascimento\bin\Debug\net8.0\CertidaoNascimento.exe
+C:\Users\Arthur\source\repos\DesafiosCSharp\CertidaoNascimento\bin\Debug\net8.0\CertidaoNascimento.deps.json
+C:\Users\Arthur\source\repos\DesafiosCSharp\CertidaoNascimento\bin\Debug\net8.0\CertidaoNascimento.runtimeconfig.json
+C:\Users\Arthur\source\repos\DesafiosCSharp\CertidaoNascimento\bin\Debug\net8.0\CertidaoNascimento.dll
+C:\Users\Arthur\source\repos\DesafiosCSharp\CertidaoNascimento\bin\Debug\net8.0\CertidaoNascimento.pdb
+C:\Users\Arthur\source\repos\DesafiosCSharp\CertidaoNascimento\obj\Debug\net8.0\CertidaoNascimento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arthur\source\repos\DesafiosCSharp\CertidaoNascimento\obj\Debug\net8.0\CertidaoNascimento.AssemblyInfoInputs.cache
+C:\Users\Arthur\source\repos\DesafiosCSharp\CertidaoNascimento\obj\Debug\net8.0\CertidaoNascimento.AssemblyInfo.cs
+C:\Users\Arthur\source\repos\DesafiosCSharp\CertidaoNascimento\obj\Debug\net8.0\CertidaoNascimento.csproj.CoreCompileInputs.cache
+C:\Users\Arthur\source\repos\DesafiosCSharp\CertidaoNascimento\obj\Debug\net8.0\CertidaoNascimento.dll
+C:\Users\Arthur\source\repos\DesafiosCSharp\CertidaoNascimento\obj\Debug\net8.0\refint\CertidaoNascimento.dll
+C:\Users\Arthur\source\repos\DesafiosCSharp\CertidaoNascimento\obj\Debug\net8.0\CertidaoNascimento.pdb
+C:\Users\Arthur\source\repos\DesafiosCSharp\CertidaoNascimento\obj\Debug\net8.0\CertidaoNascimento.genruntimeconfig.cache
+C:\Users\Arthur\source\repos\DesafiosCSharp\CertidaoNascimento\obj\Debug\net8.0\ref\CertidaoNascimento.dll

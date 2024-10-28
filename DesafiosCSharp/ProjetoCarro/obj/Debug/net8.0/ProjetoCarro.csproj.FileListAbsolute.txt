@@ -1,0 +1,14 @@
+C:\Users\Arthur\source\repos\DesafiosCSharp\ProjetoCarro\bin\Debug\net8.0\ProjetoCarro.exe
+C:\Users\Arthur\source\repos\DesafiosCSharp\ProjetoCarro\bin\Debug\net8.0\ProjetoCarro.deps.json
+C:\Users\Arthur\source\repos\DesafiosCSharp\ProjetoCarro\bin\Debug\net8.0\ProjetoCarro.runtimeconfig.json
+C:\Users\Arthur\source\repos\DesafiosCSharp\ProjetoCarro\bin\Debug\net8.0\ProjetoCarro.dll
+C:\Users\Arthur\source\repos\DesafiosCSharp\ProjetoCarro\bin\Debug\net8.0\ProjetoCarro.pdb
+C:\Users\Arthur\source\repos\DesafiosCSharp\ProjetoCarro\obj\Debug\net8.0\ProjetoCarro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arthur\source\repos\DesafiosCSharp\ProjetoCarro\obj\Debug\net8.0\ProjetoCarro.AssemblyInfoInputs.cache
+C:\Users\Arthur\source\repos\DesafiosCSharp\ProjetoCarro\obj\Debug\net8.0\ProjetoCarro.AssemblyInfo.cs
+C:\Users\Arthur\source\repos\DesafiosCSharp\ProjetoCarro\obj\Debug\net8.0\ProjetoCarro.csproj.CoreCompileInputs.cache
+C:\Users\Arthur\source\repos\DesafiosCSharp\ProjetoCarro\obj\Debug\net8.0\ProjetoCarro.dll
+C:\Users\Arthur\source\repos\DesafiosCSharp\ProjetoCarro\obj\Debug\net8.0\refint\ProjetoCarro.dll
+C:\Users\Arthur\source\repos\DesafiosCSharp\ProjetoCarro\obj\Debug\net8.0\ProjetoCarro.pdb
+C:\Users\Arthur\source\repos\DesafiosCSharp\ProjetoCarro\obj\Debug\net8.0\ProjetoCarro.genruntimeconfig.cache
+C:\Users\Arthur\source\repos\DesafiosCSharp\ProjetoCarro\obj\Debug\net8.0\ref\ProjetoCarro.dll

@@ -1,0 +1,14 @@
+C:\Users\Arthur\source\repos\DesafiosCSharp\Vertice\bin\Debug\net8.0\Vertice.exe
+C:\Users\Arthur\source\repos\DesafiosCSharp\Vertice\bin\Debug\net8.0\Vertice.deps.json
+C:\Users\Arthur\source\repos\DesafiosCSharp\Vertice\bin\Debug\net8.0\Vertice.runtimeconfig.json
+C:\Users\Arthur\source\repos\DesafiosCSharp\Vertice\bin\Debug\net8.0\Vertice.dll
+C:\Users\Arthur\source\repos\DesafiosCSharp\Vertice\bin\Debug\net8.0\Vertice.pdb
+C:\Users\Arthur\source\repos\DesafiosCSharp\Vertice\obj\Debug\net8.0\Vertice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arthur\source\repos\DesafiosCSharp\Vertice\obj\Debug\net8.0\Vertice.AssemblyInfoInputs.cache
+C:\Users\Arthur\source\repos\DesafiosCSharp\Vertice\obj\Debug\net8.0\Vertice.AssemblyInfo.cs
+C:\Users\Arthur\source\repos\DesafiosCSharp\Vertice\obj\Debug\net8.0\Vertice.csproj.CoreCompileInputs.cache
+C:\Users\Arthur\source\repos\DesafiosCSharp\Vertice\obj\Debug\net8.0\Vertice.dll
+C:\Users\Arthur\source\repos\DesafiosCSharp\Vertice\obj\Debug\net8.0\refint\Vertice.dll
+C:\Users\Arthur\source\repos\DesafiosCSharp\Vertice\obj\Debug\net8.0\Vertice.pdb
+C:\Users\Arthur\source\repos\DesafiosCSharp\Vertice\obj\Debug\net8.0\Vertice.genruntimeconfig.cache
+C:\Users\Arthur\source\repos\DesafiosCSharp\Vertice\obj\Debug\net8.0\ref\Vertice.dll

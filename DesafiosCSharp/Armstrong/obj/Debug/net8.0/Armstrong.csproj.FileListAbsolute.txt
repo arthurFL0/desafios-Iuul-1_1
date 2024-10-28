@@ -1,0 +1,14 @@
+C:\Users\Arthur\source\repos\DesafiosCSharp\Armstrong\bin\Debug\net8.0\Armstrong.exe
+C:\Users\Arthur\source\repos\DesafiosCSharp\Armstrong\bin\Debug\net8.0\Armstrong.deps.json
+C:\Users\Arthur\source\repos\DesafiosCSharp\Armstrong\bin\Debug\net8.0\Armstrong.runtimeconfig.json
+C:\Users\Arthur\source\repos\DesafiosCSharp\Armstrong\bin\Debug\net8.0\Armstrong.dll
+C:\Users\Arthur\source\repos\DesafiosCSharp\Armstrong\bin\Debug\net8.0\Armstrong.pdb
+C:\Users\Arthur\source\repos\DesafiosCSharp\Armstrong\obj\Debug\net8.0\Armstrong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arthur\source\repos\DesafiosCSharp\Armstrong\obj\Debug\net8.0\Armstrong.AssemblyInfoInputs.cache
+C:\Users\Arthur\source\repos\DesafiosCSharp\Armstrong\obj\Debug\net8.0\Armstrong.AssemblyInfo.cs
+C:\Users\Arthur\source\repos\DesafiosCSharp\Armstrong\obj\Debug\net8.0\Armstrong.csproj.CoreCompileInputs.cache
+C:\Users\Arthur\source\repos\DesafiosCSharp\Armstrong\obj\Debug\net8.0\Armstrong.dll
+C:\Users\Arthur\source\repos\DesafiosCSharp\Armstrong\obj\Debug\net8.0\refint\Armstrong.dll
+C:\Users\Arthur\source\repos\DesafiosCSharp\Armstrong\obj\Debug\net8.0\Armstrong.pdb
+C:\Users\Arthur\source\repos\DesafiosCSharp\Armstrong\obj\Debug\net8.0\Armstrong.genruntimeconfig.cache
+C:\Users\Arthur\source\repos\DesafiosCSharp\Armstrong\obj\Debug\net8.0\ref\Armstrong.dll
