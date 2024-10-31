@@ -13,6 +13,8 @@ namespace CertidaoNascimento
                  throw new ArgumentNullException("Uma certidão precisa ter uma data de Emissao");
 
             DataEmissao = data;
+
+            p.Certidao = this;
         }
     }
 }
