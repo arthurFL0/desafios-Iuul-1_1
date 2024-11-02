@@ -9,8 +9,8 @@
             DateTime dt2 = dt1.AddHours(2);
             Intervalo i = new Intervalo(dt1, dt2);
 
-            DateTime dt3 = dt1.AddHours(1);
-            DateTime dt4 = dt3.AddHours(4);
+            DateTime dt3 = dt1.AddHours(-2);
+            DateTime dt4 = dt2.AddHours(1);
 
             Intervalo i2 = new Intervalo(dt3, dt4);
 
