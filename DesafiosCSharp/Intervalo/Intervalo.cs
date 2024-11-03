@@ -24,12 +24,7 @@ namespace Intervalo
 
         public bool TemIntersecao(Intervalo inter)
         {
-            if(inter.Inicio < Fim && inter.Fim > Inicio)
-            {
-                return true;
-            }
-
-            return false;
+            return inter.Inicio < Fim && inter.Fim > Inicio;
         }
 
         public bool ehIgual(Intervalo inter)
